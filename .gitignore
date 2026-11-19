@@ -1,0 +1,10 @@
+# Личные настройки и рабочие данные
+user_config.ahk
+data/*.log
+data/*.txt
+scripts/AutoHotkeyU64.exe
+
+# Локальная среда Python и кэши инструментов
+.venv/
+__pycache__/
+*.py[cod]
